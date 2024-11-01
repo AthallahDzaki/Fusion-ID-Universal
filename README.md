@@ -14,8 +14,8 @@
  ```
 
 Requirements : 
-[PVZ Fusion](https://rentry.co/playfusion)(English More Better)
-[.NET DESKTOP 6.0 x64](https://dotnet.microsoft.com/id-id/download/dotnet/6.0).
+- [PVZ Fusion](https://rentry.co/playfusion)(English More Better)
+- [.NET DESKTOP 6.0 x64](https://dotnet.microsoft.com/id-id/download/dotnet/6.0).
 
 How to Install (With Melon Loader Installed : Has MelonLoader Folder):
 1. Download Mods from https://github.com/AthallahDzaki/Fusion-ID-Universal/releases/latest/
